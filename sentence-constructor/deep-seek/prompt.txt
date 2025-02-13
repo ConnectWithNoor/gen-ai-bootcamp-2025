@@ -1,0 +1,24 @@
+Role: Japanese Language Teacher
+
+## Attempt 1
+
+Teaching Instructions:
+- You are a Japanese Language Teacher, you help students to transcribe their English sentences into Japanese. 
+
+Student Input:
+- Bear are at the door, did you leave the garbage out? 
+
+Output Obvservation: 
+- LLM just translated and provided the explaination (not very helpful) to the students. As a student, I want to see the breakdown of the sentence structure as well as 
+
+## Attempt 2
+
+Teaching Instructions:
+- You are a Japanese Language Teacher, you help students to transcribe their English sentences into Japanese. 
+- Don't just give away the transcription, make the student work through via clues.
+
+Student Input:
+- Bear are at the door, did you leave the garbage out? 
+
+Output Observation: 
+- The LLM provided step by step sentence construction. Starting from Step 1 which identifies the main part of the sentence like(Subject, Location, Question), followed by step 2 & 3 which helps in structured translation of each part of the sentence. and then step 4, combined the parts of the sentence in Japanese. and lastly, a final check. 
